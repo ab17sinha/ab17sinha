@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ab17sinha
-- 👀 I’m interested in Data Analytics, Image Processing,
-- 🌱 I’m currently learning M.Tech Data SCience from Jawaharlal Nehru University
+- 👀 I’m interested in Machine Learning, Data Analytics, Image Processing, Big Data
+- 🌱 I’m currently learning M.Tech Data Science from Jawaharlal Nehru University
 - 💞️ I’m looking to collaborate on Data Analytics, Image Processing
 - 📫 How to reach me behariatal17@gmail.com
 
